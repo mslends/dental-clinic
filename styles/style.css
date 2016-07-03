@@ -25,21 +25,148 @@
 
 .main-content-section {
     width: 100%;
-    height: 100vh;
     background-color: #01b9af;
-    padding-left: 30px;
-    padding-right: 30px;
+    padding-top: 30px;
+    padding-bottom: 30px;
+    color: white;
+    margin-bottom: 20px;
+
 }
 
 .main-content-wrapper {
-    width: 100%;
+    width: 90%;
     height: 100%;
-    background-color: blue;
+    background-color: none;
     margin: 0 auto;
 }
 
 .dentist-icon {
     width: 100%;
-    height: 40px;
-    background-color: orange;
+    background-color: none;
+    text-align: center;
+    font-size: 48px;
+    margin-bottom: 20px;
+}
+
+.title-section {
+    margin-bottom: 20px;
+    text-align: center;
+    background-color: none;
+}
+
+.titles {
+    font-size: 36px;
+}
+
+.1st-paragraph-section {
+    color: white;
+    margin-bottom: 30px;
+}
+
+.paragraphs {
+    font-size: 14px;
+    text-align: center;
+    margin-bottom: 30px;
+    line-height: 24px;
+}
+
+
+.hours-section {
+    background-color: white;
+    color: #2b2e33;
+    padding-top: 30px;
+    padding-bottom: 30px;
+    padding-left: 25px;
+    padding-right: 25px;
+    margin-bottom: 30px;
+}
+
+.clock-icon-section {
+    text-align: center;
+    font-size: 48px;
+    margin-bottom: 30px;
+}
+
+.2nd-paragraph-section {
+    color: black;
+    margin-bottom: 30px;
+}
+
+.hours {
+    background-color: none;
+    display: flex;
+    justify-content: space-between;
+    padding-top: 8px;
+    padding-bottom: 8px;
+    border-bottom: 1px solid #d7d7d7;
+    color: #2b2e33;
+    font-size: 14px;
+}
+
+.bottom-hours {
+    border-bottom: none;
+}
+
+.tooth-icon-section {
+    text-align: center;
+    margin-bottom: 30px;
+}
+
+
+.large-title-section {
+    margin-bottom: 20px;
+    text-align: center;
+    color: #01b9af;
+    font-size: 45px;
+}
+
+.second-content-wrapper {
+    width: 100%;
+    height: 100%;
+    background-color: #ffffff;
+    margin: 0 auto;
+    padding-left: 25px;
+    padding-right: 25px;
+    padding-top: 75px;
+}
+
+.dark-paragraphs {
+    color: #2b2e33;
+}
+
+.meet-us-title-section {
+    color: #2b2e33;
+    background-color: none;
+    text-align: center;
+
+}
+
+.meet-us-doctors-section {
+    color: #2b2e33;
+    background-color: none;
+    text-align: center;
+    margin-bottom: 20px;
+}
+
+.dorrow-title {
+    font-size: 32px; !important
+}
+
+.dorow-pic-section {
+    width: 100%;
+    height: 300px;
+    background-color: grey;
+    margin-bottom: 30px;
+}
+
+.christensen-title {
+    font-size: 32px;
+    color: #2b2e33;
+    text-align: center;
+    margin-bottom: 20px;
+}
+.christensen-pic-section {
+    width: 100%;
+    height: 300px;
+    background-color: grey;
 }
