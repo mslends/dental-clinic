@@ -10,9 +10,18 @@
     background-color: #ffffff;
 }
 
+.business-name {
+    font-family: 'Tangerine', cursive;
+    width: 80%;
+    font-size: 40px;
+    color: #01b9af;
+    text-align: center;
+    margin: 0 auto;
+    padding: 20px;
+}
+
 .main-image {
     max-width: 100%;
-    height: 37vh;
     background-color: orange;
     background: no-repeat;
     background-size: cover;
@@ -29,8 +38,6 @@
     background-color: #01b9af;
     padding-top: 30px;
     color: white;
-    margin-bottom: 20px;
-
 }
 
 .main-content-wrapper {
@@ -174,6 +181,70 @@
 
 .footer {
     width: 100%;
-    height: 300px;
+    /*height: 300px;*/
     background-color: #01b9af;
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
+
+.footer-titles {
+    width: 100%;
+    color: white;
+    background-color: none;
+    font-size: 30px;
+    padding-left: 30px;
+    margin-top: 15px;;
+}
+
+.copyright-section {
+    width: 100%;
+    height: 75px;
+    background-color: #00938b;
+    padding-top: 30px;
+    font-size: 15px;
+}
+
+.copyright-section-content {
+    color: white;
+    text-align: center;
+}
+
+.services-provided-section {
+    width: 100%;
+    background-color: none;
+    padding-left: 40px;
+    margin-top: 10px;
+}
+
+.services-provided {
+    width: 100%;
+    margin-bottom: 7px;
+}
+
+.footer-address {
+    font-family: 'Tangerine', cursive;
+    width: 100%;
+    color: white;
+    background-color: none;
+    font-size: 23px;
+    padding-left: 30px;
+    margin-top: 40px;
+    margin-bottom: 20px;
+}
+
+.address {
+    padding-left: 30px;
+    padding-right: 30px;
+    margin-bottom: 10px;
+}
+
+.phone {
+    padding-left: 30px;
+    padding-right: 30px;
+    margin-bottom: 10px;
+}
+
+.email {
+    padding-left: 30px;
+    padding-right: 30px;
 }
